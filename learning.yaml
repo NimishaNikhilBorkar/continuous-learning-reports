@@ -4,14 +4,12 @@ continuous-learning-reports/
 │
 ├── 2023/
 │   ├── Learning_Report_2023.csv
-│   └── Learning_Report_2023.pdf
+│   
 │
 ├── 2024/
 │   ├── Learning_Report_2024.csv
-│   └── Learning_Report_2024.pdf
-│
+│   │
 ├── 2025/
 │   ├── Learning_Report_2025.csv
-│   └── Learning_Report_2025.pdf
+│   
 │
-└── LICENSE (optional)
